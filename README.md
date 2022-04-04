@@ -1,17 +1,17 @@
 # Atividade
 
-Esta atividade tem como objetivo que ver no console do  navegador como os módulos funcionam.
+Esta atividade tem como objetivo ver no console do  navegador como os módulos funcionam.
 
 Instale a extensão "Live Server" no seu VSCode;
 
 Crie um arquivo com uma estrutura HTML padrão;
-
 
 Crie dois arquivos .js ou .mjs, um chamado funcoes e outro chamado main;
 
 No arquivo funcoes:
 
 Crie uma função chamada mostraIdade, que recebe nome e idade e retorna a string: A idade de ${nome} é ${idade};
+
 Siga o mesmo padrão para outras funções como mostraCidade e mostraHobby;
 
 Exporte estas funções.
